@@ -6,7 +6,7 @@ int main()
     double r,a,h;
     printf("Give the value of r:");
     scanf("%lf",&r);
-    printf("GIve the value of h:");
+    printf("Give the value of h:");
     scanf("%lf",&h);
     a=2*3.1415*r*r+2*3.1415*h*r;
 
